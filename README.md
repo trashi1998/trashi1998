@@ -20,7 +20,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 - 🔭 I’m currently working on **Data analysis** 
-- 🌱 I’m currently __Tableau__
+- 🌱 I’m currently learning  __Tableau__
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - :eyes: I’m looking for help with __Data Science__
 - 💬 Ask me about _tech facts_
@@ -31,7 +31,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trashi1998u&layout=compact&hide=html&theme=radical" alt="trashi1998" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trashi1998&layout=compact&hide=html&theme=radical" alt="trashi1998" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trashi1998&theme=dark&hide_langs_below=1" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=trashi1998&show_icons=true&theme=radical" alt="trashi1998" />
 </p>
